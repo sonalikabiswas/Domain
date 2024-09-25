@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Listings] (Table)
+       [dbo].[SavedListings] (Table)
+       [dbo].[UserListings] (Table)
+       [dbo].[Users] (Table)
+       [dbo].[FK_SavedListings_ToUsers] (Foreign Key)
+       [dbo].[FK_SavedListings_ToSavedListings] (Foreign Key)
+       [dbo].[FK_UserListings_ToUsers] (Foreign Key)
+       [dbo].[FK_UserListings_ToSavedListings] (Foreign Key)
+
+** Supporting actions

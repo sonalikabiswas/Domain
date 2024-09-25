@@ -1,0 +1,12 @@
+C:\Users\SONALIKA\source\repos\Domain\DomainDB\bin\Debug\DomainDB.dacpac
+C:\Users\SONALIKA\source\repos\Domain\DomainDB\bin\Debug\DomainDB.dll
+C:\Users\SONALIKA\source\repos\Domain\DomainDB\bin\Debug\DomainDB.pdb
+C:\Users\SONALIKA\source\repos\Domain\DomainDB\obj\Debug\DomainDB.sqlproj.AssemblyReference.cache
+C:\Users\SONALIKA\source\repos\Domain\DomainDB\obj\Debug\DomainDB.dll
+C:\Users\SONALIKA\source\repos\Domain\DomainDB\obj\Debug\DomainDB.pdb
+C:\Users\SONALIKA\source\repos\DomainAPI\DomainDB\bin\Debug\DomainDB.dacpac
+C:\Users\SONALIKA\source\repos\DomainAPI\DomainDB\bin\Debug\DomainDB.dll
+C:\Users\SONALIKA\source\repos\DomainAPI\DomainDB\bin\Debug\DomainDB.pdb
+C:\Users\SONALIKA\source\repos\DomainAPI\DomainDB\obj\Debug\DomainDB.sqlproj.AssemblyReference.cache
+C:\Users\SONALIKA\source\repos\DomainAPI\DomainDB\obj\Debug\DomainDB.dll
+C:\Users\SONALIKA\source\repos\DomainAPI\DomainDB\obj\Debug\DomainDB.pdb

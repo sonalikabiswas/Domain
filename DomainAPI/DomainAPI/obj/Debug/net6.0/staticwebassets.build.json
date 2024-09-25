@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "W9OfSOPfPbAsDIPTbkbzoQLWAUtX3Cj24Sjc0QdYiTI=",
+  "Source": "DomainAPI",
+  "BasePath": "_content/DomainAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
